@@ -1,12 +1,16 @@
 {
   "name": "q-simard-clothing",
-  "version": "0.0.0",
+  "version": "0.1.0",
+  
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "newinterface": "ng generate interface",
+    "newclass": "ng generate class",
+    "newcomponent": "ng generate component"
   },
   "private": true,
   "dependencies": {
@@ -35,4 +39,8 @@
     "karma-jasmine-html-reporter": "~2.0.0",
     "typescript": "~4.9.4"
   }
+
+
+
+  
 }

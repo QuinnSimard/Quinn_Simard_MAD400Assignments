@@ -1,6 +1,9 @@
 # QSimardClothing
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.2.
+
+This is QSimard clothing where we sell clothing for people that go to the gym or just want to relax inside.
+
+<!-- This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.2.
 
 ## Development server
 
@@ -24,4 +27,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page. -->
